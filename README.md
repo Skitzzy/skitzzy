@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Imtiyaz</h1>
-<h3 align="center">I dabble in many things - I'm a full time DeFi developer / algotrader, I research distributed ledger technologies and projects, and have a tangential interest in AI/ML and creative computing.</h3>
+<h3 align="center">I dabble in many things - I'm a full time DeFi developer / algotrader, I research distributed ledger technologies and projects, and have a tangential interest in AI/ML and creative computing. </h3>
 
-<p align="left"> <a href="https://twitter.com/snokizzy" target="blank"><img src="https://img.shields.io/twitter/follow/snokizzy?logo=twitter&style=for-the-badge" alt="snokizzy" /></a> </p>
 
-- 👨‍💻 I’m a full time DeFi dev at Wintermute. [Wintermute](https://www.wintermute.com)
+- 👨‍💻 I’m a full time DeFi dev at [Wintermute](https://www.wintermute.com).
+
+- 📝 I research and speak about cryptocurrencies for the [Cambridge Blockchain Society](https://cambridgeblockchain.org)
 
 - 🌱 I’m currently learning **Rust, PyTorch, TensorFlow**
 
-- 📝 I research and speak about cryptocurrencies for the Cambridge Blockchain Society [https://cambridgeblockchain.org](https://cambridgeblockchain.org)
-
-- 📫 How to reach me **imtiyazmiah@gmail.com**
+- 📫 You can reach me via email at: **imtiyazmiah@gmail.com** Or on [Twitter]("https://twitter.com/snokizzy")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
