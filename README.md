@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imtiyaz</h1>
-<h3 align="center">I dabble in many things - I'm a full time DeFi developer / algotrader, I research distributed ledger technologies and projects, and have a tangential interest in AI/ML and creative computing. </h3>
+<h4 align="center">I dabble in many things - I'm a full time DeFi developer / algotrader, I research distributed ledger technologies and projects, and have a tangential interest in AI/ML and creative computing. </h4>
 
 
 - 👨‍💻 I’m a full time DeFi dev at [Wintermute](https://www.wintermute.com).
