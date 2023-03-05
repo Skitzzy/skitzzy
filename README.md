@@ -4,7 +4,7 @@
   In the very little free time I have, I make art and play video games.</p>
 
 
-- 👨‍💻 I’m a full time DeFi dev at [Wintermute](https://www.wintermute.com).
+- 👨‍💻 I’m a full time DeFi dev at [Wintermute](https://www.wintermute.com)
 
 - 📝 I research and speak about cryptocurrencies for the [Cambridge Blockchain Society](https://cambridgeblockchain.org)
 
