@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imtiyaz</h1>
 <h3 align="center">I dabble in many things - I'm a full time DeFi developer / algotrader, I research distributed ledger technologies and projects, and have a tangential interest in AI/ML and creative computing.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiyazzzzz" alt="imtiyazzzzz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/snokizzy" target="blank"><img src="https://img.shields.io/twitter/follow/snokizzy?logo=twitter&style=for-the-badge" alt="snokizzy" /></a> </p>
 
 - 👨‍💻 I’m a full time DeFi dev at Wintermute. [Wintermute](https://www.wintermute.com)
