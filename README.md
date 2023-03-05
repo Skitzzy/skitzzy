@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imtiyaz</h1>
-<p align="center">Full time DeFi developer / algotrader, researching distributed ledger technologies and projects, and have a tangential interest in AI/ML and creative computing. Graduated with a bachelors in Computer Science from the University of Cambridge, I now spend my time beating people at competitive internet money games, making some of those games myself, and philosophising on the best incentive models to dismantle existing flawed power structures. In the very little free time I have, I make all kinds of art and play some video games.</p>
+<p align="center">Full time DeFi developer / algotrader, researching distributed ledger technologies and projects, and have a tangential interest in AI/ML and creative computing. Graduated with a bachelors in Computer Science from the University of Cambridge, I now spend my time beating people at competitive internet money games, making some of those games myself, and philosophising on the best incentive models to dismantle existing flawed power structures. In the very little free time I have, I make art and play video games.</p>
 
 
 - 👨‍💻 I’m a full time DeFi dev at [Wintermute](https://www.wintermute.com).
