@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rust, PyTorch, TensorFlow**
 
-- 📫 You can reach me via email at: **imtiyazmiah@gmail.com** Or on [Twitter]("https://twitter.com/snokizzy")
+- 📫 You can reach me via email at: **imtiyazmiah@gmail.com** Or on [Twitter](https://twitter.com/snokizzy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
