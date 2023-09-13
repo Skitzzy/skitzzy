@@ -4,7 +4,9 @@
   In the very little free time I have, I make art and play video games.</p>
 
 
-- 👨‍💻 I’m a full time Product Engineer at [Stix](https://www.socratix.xyz)
+- 👨‍💻 I’m a full time Product Engineer at [Stix](https://www.stix.co)
+
+- 📈 Onchain Data Analyst and Advisor at [Fyde](https://www.fyde.fi)
 
 - 📝 I research and speak about cryptocurrencies for the [Cambridge Blockchain Society](https://cambridgeblockchain.org)
 
